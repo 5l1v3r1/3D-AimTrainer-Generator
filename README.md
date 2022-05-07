@@ -1,4 +1,4 @@
-# 3dAimTrainer-Tool 🎯
+# 3DAimTrainer-Tool 🎯
 This is a Mass Account Creator & Checker for the website 3dAimTrainer.com
 
 # Usage 💻
