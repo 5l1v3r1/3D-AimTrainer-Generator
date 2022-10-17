@@ -1,4 +1,4 @@
--= Note: I will no longer be updating the code or maintaining the project, It's still working but the code readability isn't good =-
+-= Note: I will no longer be maintaining the project, It's still working but the code readability isn't good =-
 
 # 3DAimTrainer-Tool 🎯
 This is a Mass Account Creator & Checker for the website 3dAimTrainer.com
