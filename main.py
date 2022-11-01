@@ -122,7 +122,6 @@ class Register:
         for i in range(len(self.usernames)):
             email, username, password = self.emails[i], self.usernames[i], self.passwords[i]
             accounts.add_row(str(i+1), email, username, password)
-        accounts.add_row("ID", "EMAIL", "USERNAME", "PASSWORD")
 
         c = Console()
         c.print(accounts, justify="left")
